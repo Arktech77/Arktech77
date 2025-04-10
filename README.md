@@ -2,6 +2,6 @@
 - 👀 I’m interested in web development, data engineering, and automation tools
 - 🌱 I’m currently learning advanced backend development with Flask and exploring cloud deployment
 - 💞️ I’m looking to collaborate on open-source tools for education platforms and productivity apps
-- 📫 How to reach me: [arktech77@gmail.com](mailto:arktech77@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/arktech77)
+- 📫 How to reach me: 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I once automated my entire job's daily tasks just to have more time to learn new things!
